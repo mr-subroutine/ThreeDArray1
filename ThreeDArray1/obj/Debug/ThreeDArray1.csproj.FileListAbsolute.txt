@@ -1,0 +1,9 @@
+C:\Users\gamef\source\repos\ThreeDArray1\ThreeDArray1\bin\Debug\ThreeDArray1.exe.config
+C:\Users\gamef\source\repos\ThreeDArray1\ThreeDArray1\bin\Debug\ThreeDArray1.exe
+C:\Users\gamef\source\repos\ThreeDArray1\ThreeDArray1\bin\Debug\ThreeDArray1.pdb
+C:\Users\gamef\source\repos\ThreeDArray1\ThreeDArray1\obj\Debug\ThreeDArray1.Form1.resources
+C:\Users\gamef\source\repos\ThreeDArray1\ThreeDArray1\obj\Debug\ThreeDArray1.Properties.Resources.resources
+C:\Users\gamef\source\repos\ThreeDArray1\ThreeDArray1\obj\Debug\ThreeDArray1.csproj.GenerateResource.cache
+C:\Users\gamef\source\repos\ThreeDArray1\ThreeDArray1\obj\Debug\ThreeDArray1.csproj.CoreCompileInputs.cache
+C:\Users\gamef\source\repos\ThreeDArray1\ThreeDArray1\obj\Debug\ThreeDArray1.exe
+C:\Users\gamef\source\repos\ThreeDArray1\ThreeDArray1\obj\Debug\ThreeDArray1.pdb
